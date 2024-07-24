@@ -3,7 +3,7 @@
 
 <img src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952wu1qae808lglrvsmy2iwkprvhcyxygls485tzo4f&ep=v1_gifs_search&rid=200w.gif&ct=g" width="300" height="300">
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Next.Js**
 
 - 💬 Ask me about **React,Redux Toolkit,Tailwind CSS,Bootstrap**
 
